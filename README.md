@@ -1,9 +1,4 @@
-<p align='center'>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</p>
+<p align='right'>Made with ❤️ and JavaScript.</p>
 
 ## 🔩 BRIEFLY
 
@@ -19,8 +14,24 @@ Got good experience in ReactJS courses. Made several middle projects. I am activ
 
 ## 🛠 TECHNICAL STACK
 
-<p align="center">JS * React * Redux * CSS * Sass * Firestore * Firebase * Axios * Git</p>
+<p align="center">- <b>JS</b> - <b>React</b> - <b>Redux</b> - <b>CSS</b> - <b>Sass</b> - <b>Firestore</b> - <b>Axios</b> - <b>Git</b> -
 
 ## 🔧 PREFERENCES
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavNovak)](https://github.com/VladislavNovak/github-readme-stats)
+<p align='center'>
+  <a href="https://github-readme-stats.vercel.app/api?username=VladislavNovak&show_icons=true&count_private=true&hide=prs,contribs">
+         <img height=150 src="https://github-readme-stats.vercel.app/api?username=VladislavNovak&show_icons=true&count_private=true&hide=prs,contribs"/></a>
+  <a href="https://github.com/VladislavNovak/github-readme-stats">
+         <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavNovak&layout=compact"/></a>
+</p>
+<p align='center'>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+## 📫 MAIL
+<p align='center'>
+    How to reach me: <a href='mailto:novaldix@gmail.com'>novaldix@gmail.com</a>
+</p>
