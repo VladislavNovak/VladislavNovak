@@ -9,7 +9,7 @@ Got good experience in ReactJS courses. Made several middle projects. I am activ
 <ul align="left">
   <li>Good knowledge of JS/CSS principles</li>
   <li>Created several large projects on my own</li>
-  <li>Striving to develop and improve</li>
+  <li>Focusing to develop and improve results</li>
 </ul>
 
 ## 🛠 TECHNICAL STACK
