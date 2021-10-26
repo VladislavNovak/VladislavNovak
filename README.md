@@ -19,8 +19,6 @@ Got good experience in ReactJS courses. Made several middle projects. I am activ
 ## 🔧 PREFERENCES
 
 <p align='center'>
-  <a href="https://github-readme-stats.vercel.app/api?username=VladislavNovak&show_icons=true&count_private=true&hide=prs,contribs">
-         <img height=150 src="https://github-readme-stats.vercel.app/api?username=VladislavNovak&show_icons=true&count_private=true&hide=prs,contribs"/></a>
   <a href="https://github.com/VladislavNovak/github-readme-stats">
          <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavNovak&layout=compact"/></a>
 </p>
