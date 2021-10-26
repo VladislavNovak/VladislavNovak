@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-# ABOUT ME
+## BRIEFLY
 
 Got good experience in ReactJS courses. Made several middle projects. I am actively developing and educating myself.
 
@@ -19,7 +19,7 @@ Got good experience in ReactJS courses. Made several middle projects. I am activ
 
 ## 🛠 TECHNICAL STACK
 
-<p align="center">JS / React / Redux / CSS / Sass / Firestore / Firebase / Axios / Git</p>
+<p align="center">JS * React * Redux * CSS * Sass * Firestore * Firebase * Axios * Git</p>
 
 ## 🔧 PREFERENCES
 
