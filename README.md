@@ -34,6 +34,6 @@ Got good experience in ReactJS courses. Made several middle projects. I am activ
     How to reach me: <a href='mailto:novaldix@gmail.com'>novaldix@gmail.com</a>
 </p>
 
-<p align='right'>
+<p align='center'>
     🗿 You can never understand everything. But, you should push yourself to understand the system.
 </p>
