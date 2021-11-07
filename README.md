@@ -15,6 +15,10 @@ Got good experience in ReactJS courses. Made several middle projects. I am activ
 ## 🛠 TECHNICAL STACK
 
 <p align="center">- <b>JS</b> - <b>React</b> - <b>Redux</b> - <b>CSS</b> - <b>Sass</b> - <b>Firestore</b> - <b>Axios</b> - <b>Git</b> -
+  
+<p align='center'>
+    🗿 You can never understand everything. But, you should push yourself to understand the system.
+</p>
 
 ## 🔧 PREFERENCES
 
@@ -32,8 +36,4 @@ Got good experience in ReactJS courses. Made several middle projects. I am activ
 ## 📫 MAIL
 <p align='center'>
     How to reach me: <a href='mailto:novaldix@gmail.com'>novaldix@gmail.com</a>
-</p>
-
-<p align='center'>
-    🗿 You can never understand everything. But, you should push yourself to understand the system.
 </p>
