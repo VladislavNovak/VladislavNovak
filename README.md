@@ -33,3 +33,7 @@ Got good experience in ReactJS courses. Made several middle projects. I am activ
 <p align='center'>
     How to reach me: <a href='mailto:novaldix@gmail.com'>novaldix@gmail.com</a>
 </p>
+
+<p align='right'>
+    🗿 You can never understand everything. But, you should push yourself to understand the system.
+</p>
