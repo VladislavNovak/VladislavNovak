@@ -2,7 +2,8 @@
 
 ## 🔩 BRIEFLY
 
-Got good experience in ReactJS courses. Made several middle projects. I am actively developing and educating myself.
+I have good experience with JS/ReactJS and am currently working on a large project.
+I am also actively learning C++.
 
 ## ⚙ KEY POINTS
 
@@ -15,7 +16,8 @@ Got good experience in ReactJS courses. Made several middle projects. I am activ
 ## 🛠 TECHNICAL STACK
 
 <p align="center">
-  <span>- <b>JS</b> - <b>React</b> - <b>Redux</b> - <b>CSS</b> - <b>Sass</b> - <b>Firestore</b> - <b>Axios</b> - <b>Git</b> -</span>
+  <span> <b>C++</b>  <b>JS</b> </span>
+  <span> <b>React</b>  <b>Redux</b>  <b>CSS</b>  <b>Git</b> </span>
 </p>
   
 <p align='center'>
@@ -26,7 +28,10 @@ Got good experience in ReactJS courses. Made several middle projects. I am activ
 
 <p align='center'>
   <a href="https://github.com/VladislavNovak/github-readme-stats">
-         <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavNovak&layout=compact"/></a>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavNovak&layout=compact" /></a>
+</p>
+<p align='center'>
+  <img height=26 src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++" />
 </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -34,6 +39,7 @@ Got good experience in ReactJS courses. Made several middle projects. I am activ
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
+
 
 ## 📫 MAIL
 <p align='center'>
